@@ -1,0 +1,3 @@
+# Module SELinux policies.
+# Example:
+# allow untrusted_app system_file file { read open getattr };
